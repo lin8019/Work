@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinBase</string>
+    <string name="spf_key_show_toast">showToast</string>
+    <string name="welcome">歡迎回來</string>
+</resources>
